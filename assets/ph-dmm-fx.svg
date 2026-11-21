@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="FX口座開設">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FBF6EF"/>
+      <stop offset="100%" stop-color="#F0E6D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g)"/>
+  <circle cx="300" cy="252" r="92" fill="#FFFFFF" stroke="#E4D8C8" stroke-width="3"/>
+  <g fill="none" stroke="#C0663F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><path d="M244 300l56-56 40 40 52-52"/><path d="M392 232h-34M392 232v34"/><path d="M244 330h150"/></g>
+  <text x="300" y="412" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="40" font-weight="700" fill="#4A443B">FX口座開設</text>
+  <text x="300" y="458" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="26" fill="#8C8478">スマホで完結・手数料0円</text>
+  <text x="300" y="524" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="21" fill="#B3A996">公式サイトで詳細を確認</text>
+</svg>

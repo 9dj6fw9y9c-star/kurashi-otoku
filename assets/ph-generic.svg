@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="商品画像なし">
+  <rect width="600" height="600" fill="#F7F3EC"/>
+  <circle cx="300" cy="290" r="86" fill="#FFFFFF" stroke="#E4D8C8" stroke-width="3"/>
+  <g fill="none" stroke="#C0663F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 320h88l-10-70h-68z"/><path d="M286 250v-14a14 14 0 0 1 28 0v14"/>
+  </g>
+  <text x="300" y="430" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="26" fill="#8C8478">画像はリンク先でご確認ください</text>
+</svg>

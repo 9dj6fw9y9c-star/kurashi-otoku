@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="置くだけWi-Fi">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FBF6EF"/>
+      <stop offset="100%" stop-color="#F0E6D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g)"/>
+  <circle cx="300" cy="252" r="92" fill="#FFFFFF" stroke="#E4D8C8" stroke-width="3"/>
+  <g fill="none" stroke="#C0663F" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><rect x="238" y="240" width="124" height="86" rx="14"/><path d="M268 268h64M268 292h40"/><path d="M300 214c22-22 58-22 80 0M276 232c14-14 34-14 48 0"/></g>
+  <text x="300" y="412" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="40" font-weight="700" fill="#4A443B">置くだけWi-Fi</text>
+  <text x="300" y="458" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="26" fill="#8C8478">工事不要のホームルーター</text>
+  <text x="300" y="524" text-anchor="middle" font-family="'Hiragino Sans','Noto Sans JP',sans-serif" font-size="21" fill="#B3A996">公式サイトで詳細を確認</text>
+</svg>
