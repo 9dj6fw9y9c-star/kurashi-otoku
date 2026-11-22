@@ -17,6 +17,20 @@ window.SITE_DATA = {
   ],
   "products": [
     {
+      "id": "refa-straight-iron-pro",
+      "date": "2026-11-22T18:56:00+09:00",
+      "genre": "beauty",
+      "mall": "rakuten",
+      "title": "リファ ストレートアイロン プロ（MTG ONLINESHOP）",
+      "price": "23,000円〜（税込・送料無料 / 2,000円OFFクーポン利用で21,000円・11/25 23:59まで）",
+      "review": "★4.60（2,297件）",
+      "feature": "立ち上がり最短20秒・5段階温度（140〜220℃）・約325g（コード込み）・海外対応のストレートアイロン。カーボレイヤープレートで、濡れた髪にも使いやすい設計。カラーは7色。",
+      "url": "https://a.r10.to/hgBP6j",
+      "img": "assets/refa-straight-iron-pro.jpg",
+      "post": "https://x.com/Mikohup2/status/2124441798265422051",
+      "note": "2,000円OFFクーポンは購入前の取得が必要（20,000円以上・お一人様1注文まで）"
+    },
+    {
       "id": "dyson-v12-origin",
       "date": "2026-11-22T11:55:00+09:00",
       "genre": "daily",
