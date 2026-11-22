@@ -323,9 +323,9 @@ window.SITE_DATA = {
       "genre": "daily",
       "mall": "amazon",
       "title": "アリエール ジェルボール 80個（Amazon限定）",
-      "price": "2,680円（税込）",
+      "price": "3,080円（税込）",
       "review": "レビュー3,093件",
-      "feature": "入れるだけで洗濯が完了。1回あたり約34円で、部屋干し＆スポーツのニオイ対策に。",
+      "feature": "入れるだけで洗濯が完了。1回あたり約39円で、部屋干し＆スポーツのニオイ対策に。",
       "url": "https://amzn.to/4C7Svxt",
       "img": "assets/ariel-gelball.jpg"
     },
