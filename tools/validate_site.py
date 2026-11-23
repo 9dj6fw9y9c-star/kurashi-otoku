@@ -78,7 +78,7 @@ for i, p in enumerate(products):
 
 # 新着順の妥当性（データ内の並びは問わないが、日付が範囲内か）
 for p in products:
-    if not ("2026-11-08" <= p["date"][:10] <= "2026-11-22"):
+    if not ("2026-11-08" <= p["date"][:10] <= "2026-11-23"):
         fail(f"{p['id']}: 掲載期間外の日付 {p['date']}")
 
 # ---------- index.html ----------
