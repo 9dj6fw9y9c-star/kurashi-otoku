@@ -77,9 +77,11 @@ for i, p in enumerate(products):
             fail(f"{label}: X投稿URLが不正 {p['post']}")
 
 # 新着順の妥当性（データ内の並びは問わないが、日付が範囲内か）
+start_date = data.get("periodStart", "2026-11-08")
+end_date = data.get("updatedAt", "2026-11-25")
 for p in products:
-    if not ("2026-11-08" <= p["date"][:10] <= "2026-11-23"):
-        fail(f"{p['id']}: 掲載期間外の日付 {p['date']}")
+    if not (start_date <= p["date"][:10] <= end_date):
+        fail(f"{p['id']}: 掲載期間外の日付 {p['date']}（{start_date}〜{end_date}）")
 
 # ---------- index.html ----------
 class Collector(html.parser.HTMLParser):
